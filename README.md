@@ -1,4 +1,4 @@
-[logo](https://github.com/ManarM7md/Manar-M7md/blob/main/Github%20Banner.png)
+![logo](https://github.com/ManarM7md/Manar-M7md/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Manar Mohamed</h1>
 <h3 align="center">A passionate AI & NLP Engineer from Egypt</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
